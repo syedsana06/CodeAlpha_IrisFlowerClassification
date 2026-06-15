@@ -1,5 +1,5 @@
 # CodeAlpha_IrisFlowerClassification
-Car Price Prediction using Machine Learning
+Iris Flower Classification using Machine Learning
 
 # Iris Flower Classification
 
